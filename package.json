@@ -40,7 +40,7 @@
     "phantomjs-prebuilt": "^2.1.4",
     "nodemon": "^1.18.4",
     "webpack": "2.7.0"
-  }
+  },
   "scripts": {
     "noop": "echo \"doing nothing\""
   }
