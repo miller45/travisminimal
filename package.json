@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/miller45/travisminimal#readme",
   "dependencies": {
-    "babel-polyfill": "*"
+    "noop3": "*"
   }
 }
